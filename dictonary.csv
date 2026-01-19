@@ -1,16 +1,16 @@
-Japanese,Romaji,English,POS,Category,Register,Comment,Status
-うえ,ue,above; on top,noun,core.basic,neutral,Used in spatial constructions like ～の上,seen
-かう,kau,to buy,verb(godan),actions.daily,neutral,Dictionary form of a very common verb,seen
-いう,iu,to say,verb(godan),core.grammar,neutral,Extremely frequent; behaves irregularly in compounds,seen
-いい,ii,good,i-adjective,descriptions.basic,casual,Phonetic exception; not yoi in spoken Japanese,recognized
-あう,au,to meet,verb(godan),social.actions,neutral,Meeting a person rather than casual hanging out,seen
-あおい,aoi,blue,i-adjective,descriptions.colors,neutral,Color adjective historically also used for green,seen
-えき,eki,station,noun,objects.places,neutral,Train or subway station,seen
-おおい,ooi,many; a lot,i-adjective,descriptions.quantities,neutral,Written with double お; not a long vowel mark,seen
-あい,ai,love,noun,abstract.emotions,literary,Abstract or philosophical love rather than romantic,seen
-いえ,ie,house; home,noun,objects.places,neutral,Refers to home or household rather than a building type,seen
-あかい,akai,red,i-adjective,descriptions.colors,neutral,Basic color adjective,seen
-あき,aki,autumn,noun,time.basic,neutral,Season; also used metaphorically,seen
-いけ,ike,pond,noun,nature.environment,neutral,Small natural or artificial body of water,seen
-こえ,koe,voice,noun,body.sound,neutral,Refers specifically to voice, not general sound,seen
-いく,iku,to go,verb(godan),actions.motion,neutral,Core movement verb, extremely frequent,recognized
+Japanese,Romaji,English,POS,Category,Register,Comment
+うえ,ue,above; on top,noun,core.basic,neutral,Used in spatial constructions like ～の上
+かう,kau,to buy,verb(godan),actions.daily,neutral,Dictionary form of a very common verb
+いう,iu,to say,verb(godan),core.grammar,neutral,Extremely frequent; behaves irregularly in compounds
+いい,ii,good,i-adjective,descriptions.basic,casual,Phonetic exception; not yoi in spoken Japanese
+あう,au,to meet,verb(godan),social.actions,neutral,Meeting a person rather than casual hanging out
+あおい,aoi,blue,i-adjective,descriptions.colors,neutral,Color adjective historically also used for green
+えき,eki,station,noun,objects.places,neutral,Train or subway station
+おおい,ooi,many; a lot,i-adjective,descriptions.quantities,neutral,Written with double お; not a long vowel mark
+あい,ai,love,noun,abstract.emotions,literary,Abstract or philosophical love rather than romantic
+いえ,ie,house; home,noun,objects.places,neutral,Refers to home or household rather than a building type
+あかい,akai,red,i-adjective,descriptions.colors,neutral,Basic color adjective
+あき,aki,autumn,noun,time.basic,neutral,Season; also used metaphorically
+いけ,ike,pond,noun,nature.environment,neutral,Small natural or artificial body of water
+こえ,koe,voice,noun,body.sound,neutral,Refers specifically to voice, not general sound
+いく,iku,to go,verb(godan),actions.motion,neutral,Core movement verb, extremely frequent
