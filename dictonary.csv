@@ -1,6 +1,6 @@
 Japanese,Romaji,English,POS,Category,Register,Comment
 おはよう,ohayoo,good morning,expression,social.greetings,casual,"Casual morning greeting"
-おはようございます,ohayoo gozaimasu,good morning (polite),expression,formal.polite,polite,"Polite morning greeting"
+おはようございます,ohayoo gozaimasu,good morning (polite),expression,formal.polite,polite,"Polite morning greeting; In Japanese workplaces, this is often used as the first greeting of the day regardless of the actual time."
 こんにちは,konnichiwa,good afternoon,expression,social.greetings,neutral,"Standard daytime greeting"
 こんばんは,konbanwa,good evening,expression,social.greetings,neutral,"Evening greeting"
 さようなら,sayoonara,goodbye,expression,social.greetings,neutral,"Formal or long-term goodbye"
