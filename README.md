@@ -7,6 +7,7 @@ Each entry is normalized, categorized, and annotated with usage notes, register,
 
 The CSV file is the single source of truth; all other views or tools are derived from it.
 
+```mermaid
 graph TD
 
 core --> core_basic["core.basic"]
@@ -47,3 +48,4 @@ person --> person_identity["person.identity"]
 occupations --> occupations_professions["occupations.professions"]
 
 abstract --> abstract_emotions["abstract.emotions"]
+```
